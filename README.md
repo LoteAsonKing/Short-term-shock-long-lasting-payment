@@ -11,3 +11,5 @@
 - The database is raw and initial. Further processing is necessary for analysis.
 
 - Please email me (ywang2556 at wisc dot edu) if you have any question about the processing flow in my paper in progress.
+
+- Also, email me if some more specific database you need, considering the maximum size 25Mb is limited for uploaded documents in github.
