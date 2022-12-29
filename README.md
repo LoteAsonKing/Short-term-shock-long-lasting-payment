@@ -1,5 +1,5 @@
 ##  Earthquake Database
 
-## Firm Financial Statement
+## Firm Level Data
 
 ## Administration Division
